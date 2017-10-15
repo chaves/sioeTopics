@@ -1,0 +1,4 @@
+clean_data/
+sources_data/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
